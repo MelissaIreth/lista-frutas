@@ -1,1 +1,1 @@
-este es el js
+alert("Hola mundo");
